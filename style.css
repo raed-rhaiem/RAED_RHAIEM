@@ -1,0 +1,67 @@
+#home {
+  height: 500px;
+  color: #3286aa;
+  background-color: rgb(2, 55, 71);
+  padding-top: 150px;
+    background-color:#e7f1ff;
+ 
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  contain: content;
+}
+#profile_pic {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.top .info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+}
+.top .info p {
+  line-height: 1.5;
+}
+
+
+.list-group-item{
+padding-bottom:20px;
+margin-bottom:20px;
+}
+
+#skills, #about, #info{
+margin-top:60px;
+}
+
+.fab{
+font-size:35px;
+}
+
+.fa-facebook{
+  color: #4267B2;
+}
+
+.fa-instagram{
+  color: #fb3958;
+}
+
+.fa-github{
+  color: #171515;
+}
+
+.card img{
+height: 200px;
+}
+.card{
+height:350px;
+}
